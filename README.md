@@ -1,5 +1,5 @@
 # Painting Studio for Minecraft
-
+![デモ画面](./demo.png)
 A fully browser-based tool for creating custom painting resource packs and data packs for Minecraft. Simply drag and drop your image files, intuitively crop them, and export a ready-to-use ZIP file for your game.
 
 ##  Features
