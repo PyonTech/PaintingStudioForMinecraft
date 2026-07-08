@@ -33,3 +33,5 @@ This tool is completely free and open-source. If you like this project and want 
 <a href="https://www.buymeacoffee.com/pyontech" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
+
+Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
