@@ -17,6 +17,7 @@ A fully browser-based tool for creating custom painting resource packs and data 
 
 * Minecraft Java Edition 1.21 and above
 * *Note: Supports the painting "title and author" tooltips introduced in 1.21.2+.*
+* Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
 ##  How to Use
 
@@ -34,4 +35,3 @@ This tool is completely free and open-source. If you like this project and want 
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
-Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
